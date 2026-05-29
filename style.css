@@ -345,6 +345,7 @@ ul p{
 
     .hero-sec{
         height: 250px;
+        background-position: center;
     }
 
     .hero-msg{
@@ -363,6 +364,10 @@ ul p{
     .box{
         width: 90%;
         margin: 10px auto;
+    }
+
+    .nav-signin{
+    display: none;
     }
 
     .foot-panel2{
